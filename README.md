@@ -1,4 +1,4 @@
-# Computer Vision
+# Fruit classification
 ## Description
 An artificial vision program for the recognition and classification of fruits. First, the different fruit images from a database will be processed. From this processing, through opencv, we will obtain different parameters from each image. With the information obtained from all the parameters of the training set, 2 classification algorithms Kmeans and Knn will be programmed in order to determine which is the best for this task. 
 ### Improvements 
